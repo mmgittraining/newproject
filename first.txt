@@ -1,4 +1,4 @@
-This is first practise file inside this repository.
+This is 1st practise file inside this repository.
 
 This file will have changes made to it, as well as eventually 
 later moving to
