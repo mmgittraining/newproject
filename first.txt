@@ -1,6 +1,11 @@
-This is first practise file inside this repository.
+This is the first practise file inside this repository.
 
 This file will have changes made to it, as well as eventually 
 later moving to
 
 this is a last line
+
+git checkout --ours -- <file_name>
+git checkout --theirs -- <file_name>
+
+git reflog -> git reset
